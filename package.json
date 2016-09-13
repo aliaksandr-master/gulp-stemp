@@ -1,6 +1,6 @@
 {
   "name": "gulp-stemp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "configurable gulp task for adding stemp variable into files",
   "main": "lib/index.js",
   "scripts": {
